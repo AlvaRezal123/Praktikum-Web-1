@@ -1,4 +1,4 @@
-1) Materi HTML
+<h1>1) Materi HTML</h1>h1>
    A) Dokumen HTML
    Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: <!DOCTYPE html>.
    Dokumen HTML itu sendiri dimulai dengan <html>dan diakhiri dengan </html>.
@@ -7,17 +7,13 @@
    <!DOCTYPE html>
 <html>
 <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
 </body>
 </html>
 
   B) Elemen HTML
   Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir:
-  <h1> Judul Pertama Saya </h1> ​​
-  < p > Paragraf pertama saya. < /p >
+  <h1>  </h1> ​​
+  < p >  < /p >
 
   C)Atrribute HTML
   Atribut HTML
