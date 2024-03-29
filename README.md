@@ -35,6 +35,26 @@
    Height CSS digunakan untuk menentukan tinggi sebuah elemen di halaman web. Ini memungkinkan pengguna untuk mengatur tinggi elemen, baik itu dalam nilai piksel, persen, atau 
    menggunakan unit lainnya. Penentuan tinggi ini dapat mempengaruhi tata letak dan tampilan keseluruhan halaman web.<br>
 
+   <h1>Materi Java Script</h1>
+
+   A. JavaScript Output<br>
+   Ini mengacu pada cara JavaScript menampilkan informasi kepada pengguna. Ini bisa dilakukan melalui fungsi console.log() untuk output di konsol peramban atau dengan memanipulasi elemen 
+   HTML untuk output langsung di halaman web.<br>
+
+   B. JavaScript Variable<br>
+   Variabel di JavaScript digunakan untuk menyimpan data. Mereka dapat dideklarasikan menggunakan kata kunci var, let, atau const.<br>
+
+   C. JavaScript let <br> 
+   let adalah kata kunci yang digunakan untuk mendeklarasikan variabel lokal dalam blok skrip. Variabel yang dideklarasikan dengan let hanya dapat diakses di dalam blok tempat variabel 
+   itu dideklarasikan<br>
+
+  D. JavaScript const<br>
+  const digunakan untuk mendeklarasikan variabel yang nilainya tidak dapat diubah setelah penugasan pertama. Ini berbeda dari let dan var yang nilainya dapat diubah.<br>
+
+  E. JavaScript Operator<br>
+  Operator dalam JavaScript digunakan untuk melakukan operasi pada variabel dan nilai. Ini termasuk operator aritmatika seperti +, -, *, /, operator perbandingan seperti ==, !=, operator 
+  logika seperti &&, ||, dll.<br>
+
   
 
 
