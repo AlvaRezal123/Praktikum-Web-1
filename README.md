@@ -12,7 +12,7 @@
 
   B) Elemen HTML
   Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir:
-  <h1>  </h1> ​​
+  [<h1>  </h1> ​​]
   < p >  < /p >
 
   C)Atrribute HTML
