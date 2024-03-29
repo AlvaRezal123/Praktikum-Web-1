@@ -1,19 +1,12 @@
 <h1>1) Materi HTML</h1>h1>
    A) Dokumen HTML
-   Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen: <!DOCTYPE html>.
-   Dokumen HTML itu sendiri dimulai dengan <html>dan diakhiri dengan </html>.
-   Bagian yang terlihat dari dokumen HTML adalah antara <body>dan </body>.
-   Contoh Script :
-   <!DOCTYPE html>
-<html>
-<body>
-</body>
-</html>
-
+   Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen.
+   Dokumen HTML itu sendiri dimulai dengan [<html>]dan diakhiri dengan [</html>].
+   Bagian yang terlihat dari dokumen HTML adalah antara [<body>dan </body>].
   B) Elemen HTML
   Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir:
-  <h1>  </h1> ​​
-  < p >  < /p >
+   [<h1>  </h1>] ​​
+  [< p >  < /p >]
 
   C)Atrribute HTML
   Atribut HTML
