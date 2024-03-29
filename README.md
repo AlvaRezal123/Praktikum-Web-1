@@ -35,7 +35,7 @@
    Height CSS digunakan untuk menentukan tinggi sebuah elemen di halaman web. Ini memungkinkan pengguna untuk mengatur tinggi elemen, baik itu dalam nilai piksel, persen, atau 
    menggunakan unit lainnya. Penentuan tinggi ini dapat mempengaruhi tata letak dan tampilan keseluruhan halaman web.<br>
 
-   <h1>Materi Java Script</h1>
+   <h1>3 Materi Java Script</h1>
 
    A. JavaScript Output<br>
    Ini mengacu pada cara JavaScript menampilkan informasi kepada pengguna. Ini bisa dilakukan melalui fungsi console.log() untuk output di konsol peramban atau dengan memanipulasi elemen 
